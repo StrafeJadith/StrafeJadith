@@ -14,7 +14,7 @@
 
 <br>
 
-Tecnico en Sistemas y actual aprendiz en formación del programa de Análisis y Desarrollo de Software con conocimientos basicos en lenguajes de programación como Java, Python y conocimientos intermedios en PHP. Bases de datos SQL, Tecnologías Front-End HTML, CSS y JavaScript.
+Tecnólogo en Análisis y Desarrollo de Software y Técnico en Sistemas, con formación en el desarrollo de aplicaciones web, bases de datos y soluciones de software. Poseo conocimientos en desarrollo backend y frontend utilizando tecnologías como ASP.NET Web Forms, VB.NET, SQL Server, JavaScript, Node.js.
 
 <br><br>
 
